@@ -1,3 +1,15 @@
+# v0.1.4 (Tue Oct 05 2021)
+
+#### 🐛 Bug Fix
+
+- add back env [#7](https://github.com/mick4711/learnstorybook-design-system/pull/7) ([@mick4711](https://github.com/mick4711))
+
+#### Authors: 1
+
+- [@mick4711](https://github.com/mick4711)
+
+---
+
 # v0.1.3 (Tue Oct 05 2021)
 
 #### 🐛 Bug Fix
