@@ -14,6 +14,12 @@ export const decorators = [
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
+  controls: {
+    matchers: {
+      color: /(background|color)$/i,
+      date: /Date$/,
+    },
+  },
   // Storybook a11y addon configuration
   a11y: {
     // the target DOM element
