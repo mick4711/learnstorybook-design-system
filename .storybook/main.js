@@ -1,6 +1,6 @@
 module.exports = {
   // Changes the load order of our stories. First loads the Intro page
-  // automatically import all files ending in *.stories.js|mdx  
+  // automatically import all files ending in *.stories.js|mdx
   stories: [
     "../src/Intro.stories.mdx",
     "../src/**/*.stories.mdx",
