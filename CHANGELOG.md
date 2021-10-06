@@ -1,3 +1,15 @@
+# v0.2.0 (Wed Oct 06 2021)
+
+#### 🚀 Enhancement
+
+- Create avatar list component [#8](https://github.com/mick4711/learnstorybook-design-system/pull/8) ([@mick4711](https://github.com/mick4711))
+
+#### Authors: 1
+
+- [@mick4711](https://github.com/mick4711)
+
+---
+
 # v0.1.4 (Tue Oct 05 2021)
 
 #### 🐛 Bug Fix
