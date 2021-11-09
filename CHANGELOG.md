@@ -1,3 +1,15 @@
+# v0.2.1 (Thu Nov 04 2021)
+
+#### 🐛 Bug Fix
+
+- update button comments [#9](https://github.com/mick4711/learnstorybook-design-system/pull/9) ([@mick4711](https://github.com/mick4711))
+
+#### Authors: 1
+
+- [@mick4711](https://github.com/mick4711)
+
+---
+
 # v0.2.0 (Wed Oct 06 2021)
 
 #### 🚀 Enhancement
