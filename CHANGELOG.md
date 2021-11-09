@@ -1,3 +1,16 @@
+# v0.2.4 (Tue Nov 09 2021)
+
+#### ⚠️ Pushed to `main`
+
+- update yarn lockfile (michael@altada.com)
+- react and react-dom version downgrade (michael@altada.com)
+
+#### Authors: 1
+
+- Mick (michael@altada.com)
+
+---
+
 # v0.2.3 (Tue Nov 09 2021)
 
 #### 🐛 Bug Fix
